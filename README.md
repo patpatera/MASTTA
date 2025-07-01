@@ -3,7 +3,11 @@ This is an official repo implementation of [A Multi-modal Architecture with Spat
 
 The code and pre-trained weights will be released soon...
 
+## Architecture
+![image](https://github.com/user-attachments/assets/3bf7a73b-08c5-4e54-925e-d203767a57d5)
 
+
+## Visualisation of Accident Events
 ![image](https://github.com/user-attachments/assets/49df8b29-e2ec-4184-80ba-f23a9933bf25)
 
 ## Results 
