@@ -88,5 +88,21 @@ The code and pre-trained weights will be released soon...
 | -              | ICIP24    | 75.61   | 3.31     | -      |
 | **MASTTA (Ours)** | -       | **80.81** | **3.32** | **3.51** |
 
-AA
+## Citation
+If you find our work useful, plase use the following BiBtex for citation:
+
+```bibtex
+@ARTICLE{10933925,
+  author={Patera, Patrik and Chen, Yie-Tarng and Fang, Wen-Hsien},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={A Multi-modal Architecture with Spatio-Temporal-Text Adaptation for Video-based Traffic Accident Anticipation}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Visualization;Accidents;Adaptation models;Feature extraction;Attention mechanisms;Accuracy;Tuning;Data models;Computational modeling;Vehicle dynamics;accident anticipation;multi-modal architecture;parameter-efficient transfer learning;image-to-video adaptation},
+  doi={10.1109/TCSVT.2025.3552895}
+}
+
+
 
